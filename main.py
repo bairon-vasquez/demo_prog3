@@ -2,7 +2,7 @@ def sumar(x, y):
     return x + y
 
 def restar(x, y):
-    return x + y
+    return x - y
 def division(x,y):
      if y == 0:
          return 0
